@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="sl">
+<head>
+  <meta charset="UTF-8">
+  <style>
+    body { font-family: Arial; padding: 20px; }
+    details { margin: 10px 0; }
+    summary { cursor: pointer; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <h2>Navodila</h2>
+  <details open>
+    <summary>Kako dostopati do SharePointa</summary>
+    <p>Za dostop uporabite povezavo do portala in se prijavite z AAI ra\u010dunom.</p>
+  </details>
+  <details>
+    <summary>Kako dodati dokument</summary>
+    <p>Kliknite \u00bbDodaj dokument\u00ab in izberite datoteko s svojega ra\u010dunalnika.</p>
+  </details>
+</body>
+</html>
